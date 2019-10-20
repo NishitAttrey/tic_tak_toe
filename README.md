@@ -1,5 +1,5 @@
 # tic_tak_toe
-A simple tic_tak_toe game made using python
+A simple tic_tak_toe game is made by using python
 
 <h3>Requirements</h3>
 <ul>
